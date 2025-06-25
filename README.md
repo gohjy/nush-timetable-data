@@ -174,6 +174,8 @@ Both `day` and `class` directories share some common files:
 ## Notes
 This repo is purposely not hosted on GitHub Pages - you are strongly encouraged to either download and include the files in your project directly or use a CDN to access the files.
 
+Currently, there is no standardised system for the naming of the subjects, and this will be fixed soon, possibly including course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
+
 ## License
 So technically the data isn't mine because the timetables are the school's...
 
