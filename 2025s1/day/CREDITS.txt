@@ -1,0 +1,12 @@
+Year: 2025
+Semester: 1
+Grouped by: Day of week
+
+Last updated: 25 June 2025
+
+The data was taken from
+tinyurl.com/2025timetables
+on
+24 June 2025
+
+A copy of the data is available in the source.zip file in this folder (in Open Document format (.ods)).
