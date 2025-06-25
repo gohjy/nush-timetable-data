@@ -176,6 +176,9 @@ This repo is purposely not hosted on GitHub Pages - you are strongly encouraged 
 
 Currently, there is no standardised system for the naming of the subjects, and this will be fixed soon, possibly including course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
 
+## Extra files
+`json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
+
 ## License
 So technically the data isn't mine because the timetables are the school's...
 
