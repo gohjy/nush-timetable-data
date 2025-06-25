@@ -13,36 +13,75 @@ Example:
 ```json
 {
   "meta": {
-    "year": 2025, // Year of data
-    "sem": 1, // Semester
-    "day": 1 // Day: 1-5
+    "year": 2025, // year
+    "sem": 1, // semester
+    "day": 1 // day: 1-5, 1 being Monday
   },
   "data": [
     {
-      "class": 101,
+      "class": 101, // Class: 101, 102 etc
       // p1 is 0800-0830, p2 is 0830-0900 etc
-      // Empty fields indicate empty periods after the end of a day
-      // Free periods are denoted as FREE
-      "p1": "EL",
-      "p2": "EL",
-      "p3": "EL",
-      "p4": "MA",
-      "p5": "MA",
-      "p6": "RC",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "BIO",
-      "p10": "BIO",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "PHYS",
-      "p14": "PHYS",
-      "p15": "CCE",
-      "p16": "CCE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      // Empty fields indicate empty or free periods
+      "p1": {
+        "subject": "EL" // "subject" field contains name of subject
+      },
+      "p2": {
+        "subject": "EL"
+      },
+      "p3": {
+        "subject": "EL"
+      },
+      "p4": {
+        "subject": "MA"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "BIO"
+      },
+      "p10": {
+        "subject": "BIO"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "CCE"
+      },
+      "p16": {
+        "subject": "CCE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     }
   ]
 }
@@ -55,36 +94,73 @@ Example:
 ```json
 {
   "meta": {
-    "year": 2025, // Year of data
+    "year": 2025, // Year
     "sem": 1, // Semester
-    "class": "101" // Class (as a string)
+    "class": 101 // Class as a number
   },
   "data": [
     {
-      "day": 1, // Day: 1 through 5 (1 being Monday)
-      // p1 is 0800-0830, p2 is 0830-0900 etc
-      // Empty fields indicate empty periods after the end of a day
-      // Free periods are denoted as FREE
-      "p1": "EL",
-      "p2": "EL",
-      "p3": "EL",
-      "p4": "MA",
-      "p5": "MA",
-      "p6": "RC",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "BIO",
-      "p10": "BIO",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "PHYS",
-      "p14": "PHYS",
-      "p15": "CCE",
-      "p16": "CCE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "day": 1, // Day: 1-5, 1 being Monday
+      "p1": {
+        "subject": "EL"
+      },
+      "p2": {
+        "subject": "EL"
+      },
+      "p3": {
+        "subject": "EL"
+      },
+      "p4": {
+        "subject": "MA"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "BIO"
+      },
+      "p10": {
+        "subject": "BIO"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "CCE"
+      },
+      "p16": {
+        "subject": "CCE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     }
   ]
 }

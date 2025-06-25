@@ -7,923 +7,2523 @@
   "data": [
     {
       "class": 101,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "INTHUM",
-      "p6": "INTHUM",
-      "p7": "PHYS",
-      "p8": "PHYS",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "DV",
-      "p13": "DV",
-      "p14": "DV",
-      "p15": "DV",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "INTHUM"
+      },
+      "p6": {
+        "subject": "INTHUM"
+      },
+      "p7": {
+        "subject": "PHYS"
+      },
+      "p8": {
+        "subject": "PHYS"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "DV"
+      },
+      "p13": {
+        "subject": "DV"
+      },
+      "p14": {
+        "subject": "DV"
+      },
+      "p15": {
+        "subject": "DV"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 102,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "MU",
-      "p6": "MU",
-      "p7": "MU",
-      "p8": "MU",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "PHYS",
-      "p13": "PHYS",
-      "p14": "EL",
-      "p15": "EL",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MU"
+      },
+      "p6": {
+        "subject": "MU"
+      },
+      "p7": {
+        "subject": "MU"
+      },
+      "p8": {
+        "subject": "MU"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "PHYS"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "EL"
+      },
+      "p15": {
+        "subject": "EL"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 103,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "BIO",
-      "p6": "BIO",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "EL",
-      "p13": "EL",
-      "p14": "PHYS",
-      "p15": "PHYS",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "BIO"
+      },
+      "p6": {
+        "subject": "BIO"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "EL"
+      },
+      "p13": {
+        "subject": "EL"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "PHYS"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 104,
-      "p1": "MEN",
-      "p2": "PHYS",
-      "p3": "PHYS",
-      "p4": "RC",
-      "p5": "EL",
-      "p6": "EL",
-      "p7": "MA",
-      "p8": "MA",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "MU",
-      "p13": "MU",
-      "p14": "MU",
-      "p15": "MU",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PHYS"
+      },
+      "p3": {
+        "subject": "PHYS"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "EL"
+      },
+      "p6": {
+        "subject": "EL"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "MU"
+      },
+      "p13": {
+        "subject": "MU"
+      },
+      "p14": {
+        "subject": "MU"
+      },
+      "p15": {
+        "subject": "MU"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 105,
-      "p1": "MEN",
-      "p2": "INTHUM",
-      "p3": "INTHUM",
-      "p4": "RC",
-      "p5": "CHEM",
-      "p6": "CHEM",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "ART",
-      "p13": "ART",
-      "p14": "ART",
-      "p15": "ART",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "INTHUM"
+      },
+      "p3": {
+        "subject": "INTHUM"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHEM"
+      },
+      "p6": {
+        "subject": "CHEM"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "ART"
+      },
+      "p13": {
+        "subject": "ART"
+      },
+      "p14": {
+        "subject": "ART"
+      },
+      "p15": {
+        "subject": "ART"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 106,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "INTHUM",
-      "p6": "INTHUM",
-      "p7": "EL",
-      "p8": "EL",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "BIO",
-      "p13": "BIO",
-      "p14": "BIO",
-      "p15": "BIO",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "INTHUM"
+      },
+      "p6": {
+        "subject": "INTHUM"
+      },
+      "p7": {
+        "subject": "EL"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "BIO"
+      },
+      "p13": {
+        "subject": "BIO"
+      },
+      "p14": {
+        "subject": "BIO"
+      },
+      "p15": {
+        "subject": "BIO"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 201,
-      "p1": "MEN",
-      "p2": "INTHUM",
-      "p3": "INTHUM",
-      "p4": "RC",
-      "p5": "MA",
-      "p6": "MA",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "CHEM",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "BIO",
-      "p14": "BIO",
-      "p15": "BIO",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "INTHUM"
+      },
+      "p3": {
+        "subject": "INTHUM"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "MA"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "CHEM"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "BIO"
+      },
+      "p14": {
+        "subject": "BIO"
+      },
+      "p15": {
+        "subject": "BIO"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 202,
-      "p1": "MEN",
-      "p2": "BIO",
-      "p3": "BIO",
-      "p4": "BIO",
-      "p5": "RC",
-      "p6": "INTHUM",
-      "p7": "INTHUM",
-      "p8": "LUN",
-      "p9": "LUN",
-      "p10": "MA",
-      "p11": "MA",
-      "p12": "EL",
-      "p13": "EL",
-      "p14": "FREE",
-      "p15": "FREE",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "BIO"
+      },
+      "p3": {
+        "subject": "BIO"
+      },
+      "p4": {
+        "subject": "BIO"
+      },
+      "p5": {
+        "subject": "RC"
+      },
+      "p6": {
+        "subject": "INTHUM"
+      },
+      "p7": {
+        "subject": "INTHUM"
+      },
+      "p8": {
+        "subject": "LUN"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "MA"
+      },
+      "p11": {
+        "subject": "MA"
+      },
+      "p12": {
+        "subject": "EL"
+      },
+      "p13": {
+        "subject": "EL"
+      },
+      "p14": {
+        "subject": "FREE"
+      },
+      "p15": {
+        "subject": "FREE"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 203,
-      "p1": "MEN",
-      "p2": "EL",
-      "p3": "EL",
-      "p4": "MA",
-      "p5": "MA",
-      "p6": "RC",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "CHEM",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "PHYS",
-      "p14": "PHYS",
-      "p15": "PHYS",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "EL"
+      },
+      "p3": {
+        "subject": "EL"
+      },
+      "p4": {
+        "subject": "MA"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "CHEM"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "PHYS"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 204,
-      "p1": "MEN",
-      "p2": "PHYS",
-      "p3": "PHYS",
-      "p4": "PHYS",
-      "p5": "RC",
-      "p6": "FREE",
-      "p7": "MT",
-      "p8": "MT",
-      "p9": "EL",
-      "p10": "EL",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MA",
-      "p14": "MA",
-      "p15": "FREE",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PHYS"
+      },
+      "p3": {
+        "subject": "PHYS"
+      },
+      "p4": {
+        "subject": "PHYS"
+      },
+      "p5": {
+        "subject": "RC"
+      },
+      "p6": {
+        "subject": "FREE"
+      },
+      "p7": {
+        "subject": "MT"
+      },
+      "p8": {
+        "subject": "MT"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "EL"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MA"
+      },
+      "p14": {
+        "subject": "MA"
+      },
+      "p15": {
+        "subject": "FREE"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 205,
-      "p1": "MEN",
-      "p2": "CHEM",
-      "p3": "CHEM",
-      "p4": "CHEM",
-      "p5": "RC",
-      "p6": "FREE",
-      "p7": "MT",
-      "p8": "MT",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "MA",
-      "p12": "MA",
-      "p13": "EL",
-      "p14": "EL",
-      "p15": "FREE",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHEM"
+      },
+      "p3": {
+        "subject": "CHEM"
+      },
+      "p4": {
+        "subject": "CHEM"
+      },
+      "p5": {
+        "subject": "RC"
+      },
+      "p6": {
+        "subject": "FREE"
+      },
+      "p7": {
+        "subject": "MT"
+      },
+      "p8": {
+        "subject": "MT"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "MA"
+      },
+      "p12": {
+        "subject": "MA"
+      },
+      "p13": {
+        "subject": "EL"
+      },
+      "p14": {
+        "subject": "EL"
+      },
+      "p15": {
+        "subject": "FREE"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 206,
-      "p1": "MEN",
-      "p2": "EL",
-      "p3": "EL",
-      "p4": "RC",
-      "p5": "MA",
-      "p6": "MA",
-      "p7": "MT",
-      "p8": "MT",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "BIO",
-      "p12": "BIO",
-      "p13": "BIO",
-      "p14": "CHEM",
-      "p15": "CHEM",
-      "p16": "CHEM",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "EL"
+      },
+      "p3": {
+        "subject": "EL"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "MA"
+      },
+      "p7": {
+        "subject": "MT"
+      },
+      "p8": {
+        "subject": "MT"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "BIO"
+      },
+      "p12": {
+        "subject": "BIO"
+      },
+      "p13": {
+        "subject": "BIO"
+      },
+      "p14": {
+        "subject": "CHEM"
+      },
+      "p15": {
+        "subject": "CHEM"
+      },
+      "p16": {
+        "subject": "CHEM"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 301,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "MT",
-      "p6": "MT",
-      "p7": "CHAMS",
-      "p8": "CHAMS",
-      "p9": "CHAMS",
-      "p10": "CHAMS",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "CHEM",
-      "p14": "CHEM",
-      "p15": "CHEM",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MT"
+      },
+      "p6": {
+        "subject": "MT"
+      },
+      "p7": {
+        "subject": "CHAMS"
+      },
+      "p8": {
+        "subject": "CHAMS"
+      },
+      "p9": {
+        "subject": "CHAMS"
+      },
+      "p10": {
+        "subject": "CHAMS"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "CHEM"
+      },
+      "p14": {
+        "subject": "CHEM"
+      },
+      "p15": {
+        "subject": "CHEM"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 302,
-      "p1": "MEN",
-      "p2": "PHYS",
-      "p3": "PHYS",
-      "p4": "PHYS",
-      "p5": "MT",
-      "p6": "MT",
-      "p7": "RC",
-      "p8": "EL",
-      "p9": "EL",
-      "p10": "EL",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "CHAMS",
-      "p14": "CHAMS",
-      "p15": "CHAMS",
-      "p16": "CHAMS",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PHYS"
+      },
+      "p3": {
+        "subject": "PHYS"
+      },
+      "p4": {
+        "subject": "PHYS"
+      },
+      "p5": {
+        "subject": "MT"
+      },
+      "p6": {
+        "subject": "MT"
+      },
+      "p7": {
+        "subject": "RC"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "EL"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "CHAMS"
+      },
+      "p14": {
+        "subject": "CHAMS"
+      },
+      "p15": {
+        "subject": "CHAMS"
+      },
+      "p16": {
+        "subject": "CHAMS"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 303,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "MT",
-      "p6": "MT",
-      "p7": "EL",
-      "p8": "EL",
-      "p9": "EL",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "FREE",
-      "p14": "CS",
-      "p15": "CS",
-      "p16": "CS",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MT"
+      },
+      "p6": {
+        "subject": "MT"
+      },
+      "p7": {
+        "subject": "EL"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "FREE"
+      },
+      "p14": {
+        "subject": "CS"
+      },
+      "p15": {
+        "subject": "CS"
+      },
+      "p16": {
+        "subject": "CS"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 304,
-      "p1": "MEN",
-      "p2": "CHEM",
-      "p3": "CHEM",
-      "p4": "CHEM",
-      "p5": "MT",
-      "p6": "MT",
-      "p7": "RC",
-      "p8": "CHAMS",
-      "p9": "CHAMS",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "PHYS",
-      "p14": "PHYS",
-      "p15": "PHYS",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHEM"
+      },
+      "p3": {
+        "subject": "CHEM"
+      },
+      "p4": {
+        "subject": "CHEM"
+      },
+      "p5": {
+        "subject": "MT"
+      },
+      "p6": {
+        "subject": "MT"
+      },
+      "p7": {
+        "subject": "RC"
+      },
+      "p8": {
+        "subject": "CHAMS"
+      },
+      "p9": {
+        "subject": "CHAMS"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "PHYS"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 305,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "RC",
-      "p5": "CHEM",
-      "p6": "CHEM",
-      "p7": "CHEM",
-      "p8": "CHAMS",
-      "p9": "CHAMS",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "CS",
-      "p14": "CS",
-      "p15": "CS",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHEM"
+      },
+      "p6": {
+        "subject": "CHEM"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHAMS"
+      },
+      "p9": {
+        "subject": "CHAMS"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "CS"
+      },
+      "p14": {
+        "subject": "CS"
+      },
+      "p15": {
+        "subject": "CS"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 306,
-      "p1": "MEN",
-      "p2": "CHEM",
-      "p3": "CHEM",
-      "p4": "CHEM",
-      "p5": "RC",
-      "p6": "BIO",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "PHYS",
-      "p12": "PHYS",
-      "p13": "PHYS",
-      "p14": "MA",
-      "p15": "MA",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHEM"
+      },
+      "p3": {
+        "subject": "CHEM"
+      },
+      "p4": {
+        "subject": "CHEM"
+      },
+      "p5": {
+        "subject": "RC"
+      },
+      "p6": {
+        "subject": "BIO"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "PHYS"
+      },
+      "p12": {
+        "subject": "PHYS"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "MA"
+      },
+      "p15": {
+        "subject": "MA"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 307,
-      "p1": "MEN",
-      "p2": "BIO",
-      "p3": "BIO",
-      "p4": "BIO",
-      "p5": "RC",
-      "p6": "FREE",
-      "p7": "CHAMS",
-      "p8": "CHAMS",
-      "p9": "CHAMS",
-      "p10": "CHAMS",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "LUN",
-      "p14": "CS",
-      "p15": "CS",
-      "p16": "CS",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "BIO"
+      },
+      "p3": {
+        "subject": "BIO"
+      },
+      "p4": {
+        "subject": "BIO"
+      },
+      "p5": {
+        "subject": "RC"
+      },
+      "p6": {
+        "subject": "FREE"
+      },
+      "p7": {
+        "subject": "CHAMS"
+      },
+      "p8": {
+        "subject": "CHAMS"
+      },
+      "p9": {
+        "subject": "CHAMS"
+      },
+      "p10": {
+        "subject": "CHAMS"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "LUN"
+      },
+      "p14": {
+        "subject": "CS"
+      },
+      "p15": {
+        "subject": "CS"
+      },
+      "p16": {
+        "subject": "CS"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 401,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "BIO",
-      "p6": "BIO",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "CHEM",
-      "p13": "CHEM",
-      "p14": "CHEM",
-      "p15": "CHEM",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "BIO"
+      },
+      "p6": {
+        "subject": "BIO"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "CHEM"
+      },
+      "p13": {
+        "subject": "CHEM"
+      },
+      "p14": {
+        "subject": "CHEM"
+      },
+      "p15": {
+        "subject": "CHEM"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 402,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "CHEM",
-      "p6": "CHEM",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "MA",
-      "p12": "MA",
-      "p13": "BIO",
-      "p14": "BIO",
-      "p15": "BIO",
-      "p16": "BIO",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHEM"
+      },
+      "p6": {
+        "subject": "CHEM"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "MA"
+      },
+      "p12": {
+        "subject": "MA"
+      },
+      "p13": {
+        "subject": "BIO"
+      },
+      "p14": {
+        "subject": "BIO"
+      },
+      "p15": {
+        "subject": "BIO"
+      },
+      "p16": {
+        "subject": "BIO"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 403,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "BIO",
-      "p6": "BIO",
-      "p7": "BIO",
-      "p8": "BIO",
-      "p9": "MA",
-      "p10": "MA",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "PHYS",
-      "p14": "PHYS",
-      "p15": "PHYS",
-      "p16": "PHYS",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "BIO"
+      },
+      "p6": {
+        "subject": "BIO"
+      },
+      "p7": {
+        "subject": "BIO"
+      },
+      "p8": {
+        "subject": "BIO"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "MA"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "PHYS"
+      },
+      "p14": {
+        "subject": "PHYS"
+      },
+      "p15": {
+        "subject": "PHYS"
+      },
+      "p16": {
+        "subject": "PHYS"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 404,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "CS",
-      "p6": "CS",
-      "p7": "CS",
-      "p8": "EL",
-      "p9": "EL",
-      "p10": "EL",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "CHEM",
-      "p14": "CHEM",
-      "p15": "CHEM",
-      "p16": "CHEM",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CS"
+      },
+      "p6": {
+        "subject": "CS"
+      },
+      "p7": {
+        "subject": "CS"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "EL"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "CHEM"
+      },
+      "p14": {
+        "subject": "CHEM"
+      },
+      "p15": {
+        "subject": "CHEM"
+      },
+      "p16": {
+        "subject": "CHEM"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 405,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "CHAMS",
-      "p6": "CHAMS",
-      "p7": "CHAMS",
-      "p8": "FREE",
-      "p9": "MA",
-      "p10": "MA",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "PHYS,BIO",
-      "p14": "PHYS,BIO",
-      "p15": "PHYS,BIO",
-      "p16": "PHYS,BIO",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHAMS"
+      },
+      "p6": {
+        "subject": "CHAMS"
+      },
+      "p7": {
+        "subject": "CHAMS"
+      },
+      "p8": {
+        "subject": "FREE"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "MA"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "PHYS,BIO"
+      },
+      "p14": {
+        "subject": "PHYS,BIO"
+      },
+      "p15": {
+        "subject": "PHYS,BIO"
+      },
+      "p16": {
+        "subject": "PHYS,BIO"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 406,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "CHAMS",
-      "p6": "CHAMS",
-      "p7": "MA",
-      "p8": "MA",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "FREE",
-      "p14": "FREE",
-      "p15": "FREE",
-      "p16": "FREE",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHAMS"
+      },
+      "p6": {
+        "subject": "CHAMS"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "FREE"
+      },
+      "p14": {
+        "subject": "FREE"
+      },
+      "p15": {
+        "subject": "FREE"
+      },
+      "p16": {
+        "subject": "FREE"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 407,
-      "p1": "MEN",
-      "p2": "MT",
-      "p3": "MT",
-      "p4": "RC",
-      "p5": "CHAMS",
-      "p6": "CHAMS",
-      "p7": "MA",
-      "p8": "MA",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "FREE",
-      "p12": "FREE",
-      "p13": "BIO",
-      "p14": "BIO",
-      "p15": "BIO",
-      "p16": "BIO",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MT"
+      },
+      "p3": {
+        "subject": "MT"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHAMS"
+      },
+      "p6": {
+        "subject": "CHAMS"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "FREE"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "BIO"
+      },
+      "p14": {
+        "subject": "BIO"
+      },
+      "p15": {
+        "subject": "BIO"
+      },
+      "p16": {
+        "subject": "BIO"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 501,
-      "p1": "MEN",
-      "p2": "ELC",
-      "p3": "ELC",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "MT",
-      "p8": "MA",
-      "p9": "MA",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "ELC"
+      },
+      "p3": {
+        "subject": "ELC"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "MT"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 502,
-      "p1": "MEN",
-      "p2": "MA",
-      "p3": "MA",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "EL",
-      "p8": "EL",
-      "p9": "EL",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "MA"
+      },
+      "p3": {
+        "subject": "MA"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "EL"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 503,
-      "p1": "MEN",
-      "p2": "ELC",
-      "p3": "ELC",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "PHYS",
-      "p8": "PHYS",
-      "p9": "PHYS",
-      "p10": "PHYS",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "ELC"
+      },
+      "p3": {
+        "subject": "ELC"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "PHYS"
+      },
+      "p8": {
+        "subject": "PHYS"
+      },
+      "p9": {
+        "subject": "PHYS"
+      },
+      "p10": {
+        "subject": "PHYS"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 504,
-      "p1": "MEN",
-      "p2": "CS",
-      "p3": "CS",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "PHYS",
-      "p8": "PHYS",
-      "p9": "PHYS",
-      "p10": "PHYS",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CS"
+      },
+      "p3": {
+        "subject": "CS"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "PHYS"
+      },
+      "p8": {
+        "subject": "PHYS"
+      },
+      "p9": {
+        "subject": "PHYS"
+      },
+      "p10": {
+        "subject": "PHYS"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 505,
-      "p1": "MEN",
-      "p2": "CHAMS",
-      "p3": "CHAMS",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "ELC",
-      "p8": "ELC",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHAMS"
+      },
+      "p3": {
+        "subject": "CHAMS"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "ELC"
+      },
+      "p8": {
+        "subject": "ELC"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 506,
-      "p1": "MEN",
-      "p2": "CHAMS",
-      "p3": "CHAMS",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "EL",
-      "p8": "EL",
-      "p9": "EL",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHAMS"
+      },
+      "p3": {
+        "subject": "CHAMS"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "EL"
+      },
+      "p8": {
+        "subject": "EL"
+      },
+      "p9": {
+        "subject": "EL"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 507,
-      "p1": "MEN",
-      "p2": "CHAMS",
-      "p3": "CHAMS",
-      "p4": "PE",
-      "p5": "PE",
-      "p6": "RC",
-      "p7": "MA",
-      "p8": "MA",
-      "p9": "MA",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "MT",
-      "p14": "MT",
-      "p15": "MT",
-      "p16": "MT",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "CHAMS"
+      },
+      "p3": {
+        "subject": "CHAMS"
+      },
+      "p4": {
+        "subject": "PE"
+      },
+      "p5": {
+        "subject": "PE"
+      },
+      "p6": {
+        "subject": "RC"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "MT"
+      },
+      "p14": {
+        "subject": "MT"
+      },
+      "p15": {
+        "subject": "MT"
+      },
+      "p16": {
+        "subject": "MT"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 601,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "CHEM",
-      "p6": "CHEM",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "MA",
-      "p12": "MA",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHEM"
+      },
+      "p6": {
+        "subject": "CHEM"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "MA"
+      },
+      "p12": {
+        "subject": "MA"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 602,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "EL",
-      "p5": "EL",
-      "p6": "EL",
-      "p7": "RC",
-      "p8": "MA",
-      "p9": "MA",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "EL"
+      },
+      "p5": {
+        "subject": "EL"
+      },
+      "p6": {
+        "subject": "EL"
+      },
+      "p7": {
+        "subject": "RC"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 603,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "EL",
-      "p6": "EL",
-      "p7": "EL",
-      "p8": "MA",
-      "p9": "MA",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "EL"
+      },
+      "p6": {
+        "subject": "EL"
+      },
+      "p7": {
+        "subject": "EL"
+      },
+      "p8": {
+        "subject": "MA"
+      },
+      "p9": {
+        "subject": "MA"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 604,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "MA",
-      "p6": "MA",
-      "p7": "MA",
-      "p8": "CS",
-      "p9": "CS",
-      "p10": "CS",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "MA"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "CS"
+      },
+      "p9": {
+        "subject": "CS"
+      },
+      "p10": {
+        "subject": "CS"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 605,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "MA",
-      "p6": "MA",
-      "p7": "MA",
-      "p8": "FREE",
-      "p9": "FREE",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "LUN",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "MA"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "FREE"
+      },
+      "p9": {
+        "subject": "FREE"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "LUN"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 606,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "MA",
-      "p6": "MA",
-      "p7": "MA",
-      "p8": "ELC",
-      "p9": "ELC",
-      "p10": "LUN",
-      "p11": "LUN",
-      "p12": "FREE",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "MA"
+      },
+      "p6": {
+        "subject": "MA"
+      },
+      "p7": {
+        "subject": "MA"
+      },
+      "p8": {
+        "subject": "ELC"
+      },
+      "p9": {
+        "subject": "ELC"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "LUN"
+      },
+      "p12": {
+        "subject": "FREE"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     },
     {
       "class": 607,
-      "p1": "MEN",
-      "p2": "PE",
-      "p3": "PE",
-      "p4": "RC",
-      "p5": "CHEM",
-      "p6": "CHEM",
-      "p7": "CHEM",
-      "p8": "CHEM",
-      "p9": "LUN",
-      "p10": "LUN",
-      "p11": "MA",
-      "p12": "MA",
-      "p13": "HON",
-      "p14": "HON",
-      "p15": "HON",
-      "p16": "HON",
-      "p17": "CCA",
-      "p18": "CCA",
-      "p19": "CCA",
-      "p20": "CCA"
+      "p1": {
+        "subject": "MEN"
+      },
+      "p2": {
+        "subject": "PE"
+      },
+      "p3": {
+        "subject": "PE"
+      },
+      "p4": {
+        "subject": "RC"
+      },
+      "p5": {
+        "subject": "CHEM"
+      },
+      "p6": {
+        "subject": "CHEM"
+      },
+      "p7": {
+        "subject": "CHEM"
+      },
+      "p8": {
+        "subject": "CHEM"
+      },
+      "p9": {
+        "subject": "LUN"
+      },
+      "p10": {
+        "subject": "LUN"
+      },
+      "p11": {
+        "subject": "MA"
+      },
+      "p12": {
+        "subject": "MA"
+      },
+      "p13": {
+        "subject": "HON"
+      },
+      "p14": {
+        "subject": "HON"
+      },
+      "p15": {
+        "subject": "HON"
+      },
+      "p16": {
+        "subject": "HON"
+      },
+      "p17": {
+        "subject": "CCA"
+      },
+      "p18": {
+        "subject": "CCA"
+      },
+      "p19": {
+        "subject": "CCA"
+      },
+      "p20": {
+        "subject": "CCA"
+      }
     }
   ]
 }
