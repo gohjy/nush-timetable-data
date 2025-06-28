@@ -174,7 +174,7 @@ Both `day` and `class` directories share some common files:
 ## Notes
 This repo is purposely not hosted on GitHub Pages - you are strongly encouraged to either download and include the files in your project directly or use a CDN to access the files.
 
-Currently, there is no standardised system for the naming of the subjects, and this will be fixed soon, possibly including course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
+Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`. In the future, the standard may include course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
 
 ## Extra files
 `json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
