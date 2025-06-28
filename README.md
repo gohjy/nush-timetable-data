@@ -185,3 +185,5 @@ So technically the data isn't mine because the timetables are the school's...
 ...but data in itself can't be copyrighted, because copyright protects the **expression** of ideas and data, not the ideas or data itself.
 
 So I don't actually know if I can license this, but until I get a definitive answer, just assume that the license I'll be using if I discover that I can, in fact, license this will be the [MIT license](https://choosealicense.com/licenses/mit/).
+
+(Actually, it's probably public domain in any case, but I don't have a good answer yet so...)
