@@ -8,2520 +8,3320 @@
     {
       "class": 101,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p4": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p7": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p8": {
+        "courseCode": "",
         "subject": "ART"
       },
       "p9": {
+        "courseCode": "",
         "subject": "ART"
       },
       "p10": {
+        "courseCode": "",
         "subject": "ART"
       },
       "p11": {
+        "courseCode": "",
         "subject": "ART"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 102,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p4": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p7": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p8": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p9": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p10": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 103,
       "p1": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p3": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p4": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p7": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 104,
       "p1": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "INTHUM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "INTHUM"
       },
       "p8": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 105,
       "p1": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p13": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p14": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 106,
       "p1": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p7": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p8": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "MU"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MU"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MU"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MU"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 201,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p7": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p9": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p10": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p11": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 202,
       "p1": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p5": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p6": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p7": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p9": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p13": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 203,
       "p1": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "INTHUM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "INTHUM"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p9": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p13": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p14": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 204,
       "p1": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p5": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 205,
       "p1": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p8": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p13": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 206,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p7": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p11": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p15": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p16": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p17": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 301,
       "p1": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p8": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p9": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p11": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p16": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p17": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 302,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p8": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p9": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p11": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p16": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p17": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 303,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p13": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p14": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p15": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p16": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p18": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 304,
       "p1": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p15": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p16": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p17": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p18": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 305,
       "p1": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": ""
       },
       "p12": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p14": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p15": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p16": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p18": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 306,
       "p1": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p2": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p3": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": ""
       },
       "p12": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p16": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p18": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 307,
       "p1": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p8": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p9": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MT"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p15": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p16": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p17": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p18": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 401,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p15": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p16": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p18": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 402,
       "p1": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p2": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p3": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p4": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p12": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p13": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p16": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p18": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 403,
       "p1": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p3": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p12": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p13": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p20": {
+        "courseCode": "",
         "subject": "PE"
       }
     },
     {
       "class": 404,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p12": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p13": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p16": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p17": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p18": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p20": {
+        "courseCode": "",
         "subject": "PE"
       }
     },
     {
       "class": 405,
       "p1": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p3": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p12": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p13": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "MATH_HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p20": {
+        "courseCode": "",
         "subject": "PE"
       }
     },
     {
       "class": 406,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p15": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p16": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p17": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p18": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p20": {
+        "courseCode": "",
         "subject": "PE"
       }
     },
     {
       "class": 407,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p13": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p15": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p16": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p17": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p18": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p19": {
+        "courseCode": "",
         "subject": "PE"
       },
       "p20": {
+        "courseCode": "",
         "subject": "PE"
       }
     },
     {
       "class": 501,
       "p1": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p2": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p3": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p4": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 502,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p11": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 503,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 504,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p4": {
+        "courseCode": "",
         "subject": "FREE"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 505,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 506,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p11": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 507,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": ""
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHAMS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p15": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p16": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p17": {
+        "courseCode": "",
         "subject": "HON"
       },
       "p18": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p19": {
+        "courseCode": "",
         "subject": "ELEC"
       },
       "p20": {
+        "courseCode": "",
         "subject": "ELEC"
       }
     },
     {
       "class": 601,
       "p1": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p2": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p3": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p4": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p7": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p8": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p9": {
+        "courseCode": "",
         "subject": "ELC"
       },
       "p10": {
+        "courseCode": "",
         "subject": "ELC"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p16": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p17": {
+        "courseCode": "",
         "subject": ""
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 602,
       "p1": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p2": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p3": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p11": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p15": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p16": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p17": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 603,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p7": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "ELC"
       },
       "p11": {
+        "courseCode": "",
         "subject": "ELC"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p15": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p16": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p17": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 604,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p7": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p8": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p9": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p13": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p14": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p15": {
+        "courseCode": "",
         "subject": ""
       },
       "p16": {
+        "courseCode": "",
         "subject": ""
       },
       "p17": {
+        "courseCode": "",
         "subject": ""
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 605,
       "p1": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p3": {
+        "courseCode": "",
         "subject": "EL"
       },
       "p4": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p5": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p8": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p11": {
+        "courseCode": "",
         "subject": "PHYS,BIO"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p15": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p16": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p17": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 606,
       "p1": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p2": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p3": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p4": {
+        "courseCode": "",
         "subject": "PHYS"
       },
       "p5": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p6": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p7": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p8": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p9": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p10": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p11": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p12": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p13": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p14": {
+        "courseCode": "",
         "subject": ""
       },
       "p15": {
+        "courseCode": "",
         "subject": ""
       },
       "p16": {
+        "courseCode": "",
         "subject": ""
       },
       "p17": {
+        "courseCode": "",
         "subject": ""
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     },
     {
       "class": 607,
       "p1": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p2": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p3": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p4": {
+        "courseCode": "",
         "subject": "CHEM"
       },
       "p5": {
+        "courseCode": "",
         "subject": "RC"
       },
       "p6": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p7": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p8": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p9": {
+        "courseCode": "",
         "subject": "BIO"
       },
       "p10": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p11": {
+        "courseCode": "",
         "subject": "LUN"
       },
       "p12": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p13": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p14": {
+        "courseCode": "",
         "subject": "MA"
       },
       "p15": {
+        "courseCode": "",
         "subject": ""
       },
       "p16": {
+        "courseCode": "",
         "subject": ""
       },
       "p17": {
+        "courseCode": "",
         "subject": ""
       },
       "p18": {
+        "courseCode": "",
         "subject": ""
       },
       "p19": {
+        "courseCode": "",
         "subject": ""
       },
       "p20": {
+        "courseCode": "",
         "subject": ""
       }
     }
