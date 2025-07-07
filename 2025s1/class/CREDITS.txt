@@ -1,0 +1,9 @@
+Year: 2025
+Semester: 1
+Grouped by: Class
+
+Last updated: 25 June 2025
+
+The data was converted using a Node script on 7 July 2025. **ERRORS MAY EXIST! I DID NOT CHECK THE FILES PERSONALLY!**
+
+.json are minified files, .max.json are human-readable files.
