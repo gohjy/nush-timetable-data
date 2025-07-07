@@ -2,6 +2,8 @@
 Collection of timetable data for NUSH in JSON format.
 
 ## Structure
+(The `helpers` directory contains some utility scripts for preparing the data.)
+
 Each top-level directory is named after the corresponding year/semester, so `2025s1` contains the files for year 2025, semester 1.
 
 Inside each top-level directory there may be two folders: `day` and `class`. (Note: as of writing, only `day` has been implemented.)
@@ -176,8 +178,10 @@ This repo is purposely not hosted on GitHub Pages - you are strongly encouraged 
 
 Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`. In the future, the standard may include course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
 
-## Extra files
+## Extra files (in `helpers` directory)
 `json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
+
+The files in `helpers/day_to_class` convert data in `day` format to `class` format (provided a full and comprehensive `day` data set). See the files for more info.
 
 ## License
 So technically the data isn't mine because the timetables are the school's...
