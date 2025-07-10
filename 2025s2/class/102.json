@@ -8,19 +8,19 @@
     {
       "day": 1, 
       "p1": {
-        "courseCode": "",
+        "courseCode": "CS1131",
         "subject": "CS"
       },
       "p2": {
-        "courseCode": "",
+        "courseCode": "CS1131",
         "subject": "CS"
       },
       "p3": {
-        "courseCode": "",
+        "courseCode": "CS1131",
         "subject": "CS"
       },
       "p4": {
-        "courseCode": "",
+        "courseCode": "CS1131",
         "subject": "CS"
       },
       "p5": {
@@ -28,15 +28,15 @@
         "subject": "RC"
       },
       "p6": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p7": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p8": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p9": {
@@ -48,19 +48,19 @@
         "subject": "LUN"
       },
       "p11": {
-        "courseCode": "",
+        "courseCode": "DV1132",
         "subject": "DV"
       },
       "p12": {
-        "courseCode": "",
+        "courseCode": "DV1132",
         "subject": "DV"
       },
       "p13": {
-        "courseCode": "",
+        "courseCode": "DV1132",
         "subject": "DV"
       },
       "p14": {
-        "courseCode": "",
+        "courseCode": "DV1132",
         "subject": "DV"
       },
       "p15": {
@@ -91,11 +91,11 @@
     {
       "day": 2, 
       "p1": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p2": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p3": {
@@ -111,27 +111,27 @@
         "subject": "RC"
       },
       "p6": {
-        "courseCode": "",
+        "courseCode": "AR1134",
         "subject": "ART"
       },
       "p7": {
-        "courseCode": "",
+        "courseCode": "AR1134",
         "subject": "ART"
       },
       "p8": {
-        "courseCode": "",
+        "courseCode": "AR1134",
         "subject": "ART"
       },
       "p9": {
-        "courseCode": "",
+        "courseCode": "AR1134",
         "subject": "ART"
       },
       "p10": {
-        "courseCode": "",
+        "courseCode": "PC1131",
         "subject": "PHYS"
       },
       "p11": {
-        "courseCode": "",
+        "courseCode": "PC1131",
         "subject": "PHYS"
       },
       "p12": {
@@ -174,11 +174,11 @@
     {
       "day": 3, 
       "p1": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p2": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p3": {
@@ -186,31 +186,31 @@
         "subject": "RC"
       },
       "p4": {
-        "courseCode": "",
+        "courseCode": "BL1131",
         "subject": "BIO"
       },
       "p5": {
-        "courseCode": "",
+        "courseCode": "BL1131",
         "subject": "BIO"
       },
       "p6": {
-        "courseCode": "",
+        "courseCode": "BL1131",
         "subject": "BIO"
       },
       "p7": {
-        "courseCode": "",
+        "courseCode": "BL1131",
         "subject": "BIO"
       },
       "p8": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p9": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p10": {
-        "courseCode": "",
+        "courseCode": "MA1133",
         "subject": "MA"
       },
       "p11": {
@@ -230,23 +230,23 @@
         "subject": "CCE"
       },
       "p15": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p16": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p17": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p18": {
-        "courseCode": "",
+        "courseCode": ["JP1331", "CL1232", "ML1232", ""],
         "subject": "THIRDLANG"
       },
       "p19": {
-        "courseCode": "",
+        "courseCode": ["JP1331", "CL1232", "ML1232", ""],
         "subject": "THIRDLANG"
       },
       "p20": {
@@ -257,19 +257,19 @@
     {
       "day": 4, 
       "p1": {
-        "courseCode": "",
+        "courseCode": "PC1131",
         "subject": "PHYS"
       },
       "p2": {
-        "courseCode": "",
+        "courseCode": "PC1131",
         "subject": "PHYS"
       },
       "p3": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p4": {
-        "courseCode": "",
+        "courseCode": ["CH1531", "CL1531", "TH1531", "TL1531"],
         "subject": "MT"
       },
       "p5": {
@@ -285,15 +285,15 @@
         "subject": "RC"
       },
       "p8": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p9": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p10": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p11": {
@@ -305,35 +305,35 @@
         "subject": "LUN"
       },
       "p13": {
-        "courseCode": "",
+        "courseCode": "HU1131",
         "subject": "INTHUM"
       },
       "p14": {
-        "courseCode": "",
+        "courseCode": "HU1131",
         "subject": "INTHUM"
       },
       "p15": {
-        "courseCode": "",
+        "courseCode": ["CM1331", "PC1332", "MA1232", "MA1232V", ""],
         "subject": "ELEC"
       },
       "p16": {
-        "courseCode": "",
+        "courseCode": ["CM1331", "PC1332", "MA1232", "MA1232V", ""],
         "subject": "ELEC"
       },
       "p17": {
-        "courseCode": "",
+        "courseCode": ["CM1331", "PC1332", "MA1232", "MA1232V", ""],
         "subject": "ELEC"
       },
       "p18": {
-        "courseCode": "",
+        "courseCode": ["JP1331", "CL1232", "ML1232", "MA1331", "PC1333", ""],
         "subject": "ELEC"
       },
       "p19": {
-        "courseCode": "",
+        "courseCode": ["JP1331", "CL1232", "ML1232", "MA1331", "PC1333", ""],
         "subject": "ELEC"
       },
       "p20": {
-        "courseCode": "",
+        "courseCode": ["JP1331", "CL1232", "ML1232", "MA1331", "PC1333", ""],
         "subject": "ELEC"
       }
     },
@@ -344,19 +344,19 @@
         "subject": "MEN"
       },
       "p2": {
-        "courseCode": "",
+        "courseCode": "CM1131",
         "subject": "CHEM"
       },
       "p3": {
-        "courseCode": "",
+        "courseCode": "CM1131",
         "subject": "CHEM"
       },
       "p4": {
-        "courseCode": "",
+        "courseCode": "CM1131",
         "subject": "CHEM"
       },
       "p5": {
-        "courseCode": "",
+        "courseCode": "CM1131",
         "subject": "CHEM"
       },
       "p6": {
@@ -364,19 +364,19 @@
         "subject": "RC"
       },
       "p7": {
-        "courseCode": "",
+        "courseCode": "HU1131",
         "subject": "INTHUM"
       },
       "p8": {
-        "courseCode": "",
+        "courseCode": "HU1131",
         "subject": "INTHUM"
       },
       "p9": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p10": {
-        "courseCode": "",
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p11": {

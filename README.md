@@ -6,7 +6,9 @@ Collection of timetable data for NUSH in JSON format.
 
 Each top-level directory is named after the corresponding year/semester, so `2025s1` contains the files for year 2025, semester 1.
 
-Inside each top-level directory there may be two folders: `day` and `class`. (Note: as of writing, only `day` has been implemented.)
+Inside each top-level directory there may be two folders: `day` and `class`.
+
+Note that the `courseCode` fields for **both** formats of data may be an empty string `""` indicating no known course code, a string indicating a course code, or an array indicating options of courses (e.g. electives). If it is an array, the presence of an empty string as a value in the array indicates that some people may not have courses in this slot at all (e.g. electives).
 
 ### `day` data
 These directories contain the data for each day of the week. The data files are named `1.json` through `5.json`, 1 being Monday and 5 being Friday.
@@ -25,63 +27,20 @@ Example:
       // p1 is 0800-0830, p2 is 0830-0900 etc
       // Empty fields indicate empty or free periods
       "p1": {
+        "courseCode": "EL1131",
         "subject": "EL" // "subject" field contains name of subject
       },
       "p2": {
+        "courseCode": "EL1131",
         "subject": "EL"
       },
-      "p3": {
-        "subject": "EL"
-      },
-      "p4": {
-        "subject": "MA"
-      },
-      "p5": {
-        "subject": "MA"
-      },
-      "p6": {
-        "subject": "RC"
-      },
-      "p7": {
-        "subject": "BIO"
-      },
-      "p8": {
-        "subject": "BIO"
-      },
-      "p9": {
-        "subject": "BIO"
-      },
-      "p10": {
-        "subject": "BIO"
-      },
-      "p11": {
-        "subject": "LUN"
-      },
-      "p12": {
-        "subject": "LUN"
-      },
-      "p13": {
-        "subject": "PHYS"
-      },
-      "p14": {
-        "subject": "PHYS"
-      },
-      "p15": {
-        "subject": "CCE"
-      },
-      "p16": {
-        "subject": "CCE"
-      },
-      "p17": {
-        "subject": "CCA"
-      },
-      "p18": {
-        "subject": "CCA"
-      },
+      ...
       "p19": {
+        "courseCode": "",
         "subject": "CCA"
       },
       "p20": {
+        "courseCode": "",
         "subject": "CCA"
       }
     }
@@ -104,63 +63,20 @@ Example:
     {
       "day": 1, // Day: 1-5, 1 being Monday
       "p1": {
+        "courseCode": "EL1131",
         "subject": "EL"
       },
       "p2": {
+        "courseCode": "EL1131",
         "subject": "EL"
       },
-      "p3": {
-        "subject": "EL"
-      },
-      "p4": {
-        "subject": "MA"
-      },
-      "p5": {
-        "subject": "MA"
-      },
-      "p6": {
-        "subject": "RC"
-      },
-      "p7": {
-        "subject": "BIO"
-      },
-      "p8": {
-        "subject": "BIO"
-      },
-      "p9": {
-        "subject": "BIO"
-      },
-      "p10": {
-        "subject": "BIO"
-      },
-      "p11": {
-        "subject": "LUN"
-      },
-      "p12": {
-        "subject": "LUN"
-      },
-      "p13": {
-        "subject": "PHYS"
-      },
-      "p14": {
-        "subject": "PHYS"
-      },
-      "p15": {
-        "subject": "CCE"
-      },
-      "p16": {
-        "subject": "CCE"
-      },
-      "p17": {
-        "subject": "CCA"
-      },
-      "p18": {
-        "subject": "CCA"
-      },
+      ...
       "p19": {
+        "courseCode": "",
         "subject": "CCA"
       },
       "p20": {
+        "courseCode": "",
         "subject": "CCA"
       }
     }
