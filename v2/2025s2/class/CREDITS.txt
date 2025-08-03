@@ -1,0 +1,8 @@
+Year: 2025
+Semester: 2
+Grouped by: Class
+Version: 2
+
+102.json was converted from the v1 version on 3 August 2025 using helpers/v1_to_v2, 102.max.json was converted from 102.json using JSON.stringify in a browser. **ERRORS MAY EXIST! I DID NOT CHECK THE FILES PERSONALLY!**
+
+.json are minified files, .max.json are human-readable files.

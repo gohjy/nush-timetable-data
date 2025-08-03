@@ -1,7 +1,10 @@
 # Subject Codes
-Below are the values that should be used for the `subject` field in the data files. If there are conflicting values, the one further up the list takes precedence.
 
-If there are multiple subjects taken by different students, separate them with a comma, for example `PHYS,BIO`.
+> [!WARNING]
+> 
+> This list is likely to be **updated or deprecated** in the near future. Proceed with caution. If in doubt, **only include `courseCode`**.
+
+Below are the values that should be used for the `subject` field in the data files. If there are conflicting values, the one further up the list takes precedence.
 
 If a subject is not in this list, please open an issue or pull request.
 
