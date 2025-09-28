@@ -10,7 +10,7 @@ function periodIndexToTime(index) {
 
 let filepaths = await fs.readdir("./v2", { recursive: true });
 filepaths = filepaths
-    .filter(x => x.match(new RegExp(`\\${path.sep}\\d{3}\\.max\\.json$`)))
+    .filter(x => x.match(new RegExp(`\\${path.sep}([1-5]|([1-6]0[1-7]))\\.max\\.json$`)))
     .sort()
     .map(thispath => path.join("./v2", thispath));
 
@@ -26,6 +26,7 @@ for (let [fileIndex, filepath] of filepaths.entries()) {
     for (let dayData of content.data) {
         let outputDayData = {
             day: dayData.day,
+            "class": dayData.class,
             subjects: []
         };
 
