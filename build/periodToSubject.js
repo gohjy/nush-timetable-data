@@ -41,7 +41,7 @@ for (let [fileIndex, filepath] of filepaths.entries()) {
                 return 0;
             }));
 
-        for (let [index, item] of lessonData.entries()) {
+        outerLoop: for (let [index, item] of lessonData.entries()) {
             let addData = {
                 duration: 1,
                 start: {
@@ -77,7 +77,7 @@ for (let [fileIndex, filepath] of filepaths.entries()) {
                     || (item[i].subject !== prevItem[i].subject)
                 ) {
                     outputDayData.subjects.push(addData);
-                    continue;
+                    continue outerLoop;
                 }
             }
 
