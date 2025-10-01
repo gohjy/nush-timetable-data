@@ -11,8 +11,15 @@ async function main() {
         let content = await fs.readFile(path.join("v2", entry));
         content = JSON.parse(content);
         content.version = "3-raw";
+        for (let item of content.data) {
+            for (let key of ["day", ...Object.keys(item).filter(x => x !== "day")]) {
+                let val = item[key];
+                delete item[key];
+                item[key] = val;
+            }
+        }
         content = JSON.stringify(content, null, 2);
-        
+
         let writeFilePath = path.join("v3/raw", entry).replace(/\.max\.json$/, ".json");
         await fs.mkdir(path.dirname(writeFilePath), { recursive: true });
         await fs.writeFile(writeFilePath, content);

@@ -7,6 +7,7 @@
   },
   "data": [
     {
+      "day": 1,
       "p1": [
         {
           "courseCode": "",
@@ -126,10 +127,10 @@
           "courseCode": "",
           "subject": "CCA"
         }
-      ],
-      "day": 1
+      ]
     },
     {
+      "day": 2,
       "p1": [
         {
           "courseCode": "",
@@ -249,10 +250,10 @@
           "courseCode": "",
           "subject": "ELEC"
         }
-      ],
-      "day": 2
+      ]
     },
     {
+      "day": 3,
       "p1": [
         {
           "courseCode": "",
@@ -372,10 +373,10 @@
           "courseCode": "",
           "subject": "DV"
         }
-      ],
-      "day": 3
+      ]
     },
     {
+      "day": 4,
       "p1": [
         {
           "courseCode": "",
@@ -495,10 +496,10 @@
           "courseCode": "",
           "subject": ""
         }
-      ],
-      "day": 4
+      ]
     },
     {
+      "day": 5,
       "p1": [
         {
           "courseCode": "",
@@ -618,8 +619,7 @@
           "courseCode": "",
           "subject": "CCA"
         }
-      ],
-      "day": 5
+      ]
     }
   ]
 }
