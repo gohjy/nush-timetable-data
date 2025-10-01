@@ -8,7 +8,7 @@ function periodIndexToTime(index) {
 
 function convert(content) {
     let output = {
-        version,
+        version: "3-subject",
         meta: { ...content.meta },
         data: []
     };

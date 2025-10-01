@@ -3,8 +3,7 @@ import path from "node:path";
 
 import periodToSubject from "./periodToSubject.js";
 
-// const baseRawFolder = "v3/raw";
-const baseRawFolder = "v2";
+const baseRawFolder = "v3/raw";
 const baseDistFolder = "v3/dist";
 
 function toPeriod(data) {
