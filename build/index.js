@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-import { convert as periodToSubject } from "./periodToSubject.js";
+import periodToSubject from "./periodToSubject.js";
 
 // const baseRawFolder = "v3/raw";
 const baseRawFolder = "v2";
@@ -17,6 +17,11 @@ async function convertFile(filepath) {
     try {
         let readPath = path.join(baseRawFolder, filepath);
         let content = JSON.parse(await fs.readFile(readPath, "utf-8"));
+
+        if (!content.version?.match?.(/^3(\.\d+)*\-raw/)) {
+            console.error(`Invalid content version: "${content.version}"`);
+            return false;
+        }
 
         let output = {
             period: JSON.stringify(toPeriod(content)),

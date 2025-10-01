@@ -1,6 +1,4 @@
-// convert V2 period data to subject data
-import fs from "node:fs/promises";
-import path from "node:path";
+// convert V2/V3 period data to subject data
 
 function periodIndexToTime(index) {
     let hours = 800 + Math.floor(index / 2) * 100;
@@ -8,7 +6,7 @@ function periodIndexToTime(index) {
     return (hours + minutes).toString().padStart(4, "0");
 }
 
-function convert(content, version="3-subject") {
+function convert(content) {
     let output = {
         version,
         meta: { ...content.meta },
@@ -85,26 +83,4 @@ function convert(content, version="3-subject") {
     return output;
 }
 
-async function main(filepaths) {
-    filepaths ??= await fs.readdir("./v2", { recursive: true });
-    filepaths = filepaths
-        .filter(x => x.match(new RegExp(`\\${path.sep}([1-5]|([1-6]0[1-7]))\\.max\\.json$`)))
-        .sort()
-        .map(thispath => path.join("./v2", thispath));
-
-    for (let [fileIndex, filepath] of filepaths.entries()) {
-        let content = await fs.readFile(filepath);
-        content = JSON.parse(content);
-        let output = convert(content, "2-subject");
-
-        let writeFilePath = filepath.replace(/\.max\.json$/, ".subject.json");
-        await fs.writeFile(writeFilePath, JSON.stringify(output));
-
-        console.log(`Wrote file ${writeFilePath.split(path.sep).slice(1).join("/")} (${fileIndex + 1}/${filepaths.length})`);
-    }
-
-    console.log("Done!");
-}
-
-export default main;
-export { convert }
+export default convert;
