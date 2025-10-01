@@ -1,0 +1,4930 @@
+{
+  "version": "3-raw",
+  "meta": {
+    "year": 2025,
+    "sem": 1,
+    "day": 1
+  },
+  "data": [
+    {
+      "class": 101,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 102,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": ""
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 103,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "ART"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "ART"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "ART"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "ART"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 104,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 105,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 106,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "DV"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 201,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": ""
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 202,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 203,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 204,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 205,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 206,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 301,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 302,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CHAMS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 303,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 304,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 305,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 306,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "CS"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 307,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "THIRDLANG"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 401,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 402,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 403,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 404,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 405,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 406,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 407,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PE"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "MT"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 501,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 502,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 503,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 504,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 505,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 506,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 507,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 601,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 602,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "PHYS"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 603,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "FREE"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 604,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "ELC"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "ELC"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "INTHUM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 605,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "ELC"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "ELC"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 606,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "CHEM"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "EL"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    },
+    {
+      "class": 607,
+      "p1": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p2": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p3": [
+        {
+          "courseCode": "",
+          "subject": "MA"
+        }
+      ],
+      "p4": [
+        {
+          "courseCode": "",
+          "subject": "RC"
+        }
+      ],
+      "p5": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p6": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p7": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p8": [
+        {
+          "courseCode": "",
+          "subject": "BIO"
+        }
+      ],
+      "p9": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p10": [
+        {
+          "courseCode": "",
+          "subject": "LUN"
+        }
+      ],
+      "p11": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p12": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p13": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p14": [
+        {
+          "courseCode": "",
+          "subject": "HON"
+        }
+      ],
+      "p15": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p16": [
+        {
+          "courseCode": "",
+          "subject": "CCE"
+        }
+      ],
+      "p17": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p18": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p19": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ],
+      "p20": [
+        {
+          "courseCode": "",
+          "subject": "CCA"
+        }
+      ]
+    }
+  ]
+}
