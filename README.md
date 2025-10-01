@@ -30,11 +30,13 @@ This repo is purposely not hosted on GitHub Pages - you are strongly encouraged 
 Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`. In the future, the standard may include course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
 
 ## Extra files (in `helpers` directory)
-`json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
+`helpers/json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
 
 The files in `helpers/day_to_class` convert data in `day` format to `class` format (provided a full and comprehensive `day` data set). See the files for more info.
 
 `helpers/v1_to_v2` converted `v1` data to `v2` data. See the file for more info.
+
+`helpers/v2_to_v3.js` renamed `v2` data (with slight edits) to `v3` data. See the file for more info.
 
 ## License
 So technically the data isn't mine because the timetables are the school's...

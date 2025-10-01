@@ -1,4 +1,5 @@
 // Move .max.json files from v2/* to v3/raw/* and rename to .json.
+// Also change things like version ("2" -> "3-raw") and move the "day" key to the front of each data list if it's present.
 
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -12,7 +13,7 @@ async function main() {
         content = JSON.parse(content);
         content.version = "3-raw";
         for (let item of content.data) {
-            for (let key of ["day", ...Object.keys(item).filter(x => x !== "day")]) {
+            for (let key of Object.keys(item).filter(x => x !== "day")) {
                 let val = item[key];
                 delete item[key];
                 item[key] = val;
