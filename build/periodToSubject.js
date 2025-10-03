@@ -77,6 +77,12 @@ function convert(content) {
             prevObj.end.time = periodIndexToTime(prevObj.end.oneIndex++);
         }
 
+        let last = outputDayData.subjects.at(-1).lessons;
+        let lastEvery = last.every.bind(last);
+        if (lastEvery(x => x.courseCode === "") && lastEvery(x => x.subject === "")) {
+            outputDayData.subjects.splice(outputDayData.subjects.length - 1, 1);
+        }
+
         output.data.push(outputDayData);
     }
 
