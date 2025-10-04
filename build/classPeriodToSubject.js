@@ -17,7 +17,7 @@ async function convertFile(filepath) {
         let readPath = path.join(baseRawFolder, filepath);
         let content = JSON.parse(await fs.readFile(readPath, "utf-8"));
 
-        if (!content.version?.match?.(/^3(\.\d+)*\-raw/)) {
+        if (!content.version?.match?.(/^3(\.\d+)*\-class\-raw/)) {
             console.error(`Invalid content version: "${content.version}"`);
             return false;
         }
