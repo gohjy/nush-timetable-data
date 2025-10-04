@@ -6,9 +6,9 @@ function periodIndexToTime(index) {
     return (hours + minutes).toString().padStart(4, "0");
 }
 
-function convert(content) {
+function convert(content, options) {
     let output = {
-        version: "3-subject",
+        version: options.version,
         meta: { ...content.meta },
         data: []
     };

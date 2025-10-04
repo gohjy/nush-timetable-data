@@ -11,7 +11,7 @@ async function main() {
     for (let [index, entry] of filepaths.entries()) {
         let content = await fs.readFile(path.join("v2", entry));
         content = JSON.parse(content);
-        content.version = "3-raw";
+        content.version = "3-class-raw";
         for (let item of content.data) {
             for (let key of Object.keys(item).filter(x => x !== "day")) {
                 let val = item[key];
