@@ -1,0 +1,1 @@
+"deleted": { "type": "boolean", "default": false, "description": "If true, this entry has been removed/deprecated." }
