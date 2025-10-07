@@ -21,14 +21,14 @@ Run `build/index.js` in Node. This will:
 - convert them to `.period.json` and `.subject.json` files
 - write the converted and minifed files to `v3/dist`
 
-## Notes
-This repo is purposely not hosted on GitHub Pages - you are strongly encouraged to either download and include the files in your project directly or use a CDN to access the files.
+The GitHub action at `.github/workflows/build-data.yaml` automatically runs this on push to `v3/raw` data.
 
+## Notes
 Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`.
 
 ## Extra files (in `helpers` directory)
 > [!WARNING]
-> All `helpers` files are designed for specialised use, most of them for single-use only. They are left inside in case I ever need them again, but **you should not use them unless you know what you are doing**. Proceed with caution.
+> All `helpers` files are designed for specialised use, most of them for single-use only. They are left inside the repo in case I ever need them again, but **you should not use them unless you know what you are doing**. Proceed with caution.
 
 `helpers/json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
 
