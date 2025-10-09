@@ -135,13 +135,13 @@
         {
           "courseCode": "BL1131",
           "subject": "BIO"
-        },
+        }
       ],
       "p2": [
         {
           "courseCode": "BL1131",
           "subject": "BIO"
-        },
+        }
       ],
       "p3": [
         {
@@ -258,13 +258,13 @@
         {
           "courseCode": "HU1131",
           "subject": "INTHUM"
-      
+        }
       ],
       "p2": [
         {
           "courseCode": "HU1131",
           "subject": "INTHUM"
-        },
+        }
       ],
       "p3": [
         {
@@ -288,13 +288,13 @@
         {
           "courseCode": "",
           "subject": "RC"
-        },
+        }
       ],
       "p7": [
         {
           "courseCode": "PC1131",
           "subject": "PHYS"
-        },
+        }
       ],
       "p8": [
         {
@@ -429,13 +429,13 @@
         {
           "courseCode": "HU1131",
           "subject": "INTHUM"
-      
+        }
       ],
       "p2": [
         {
           "courseCode": "HU1131",
           "subject": "INTHUM"
-        },
+        }
       ],
       "p3": [
         {
