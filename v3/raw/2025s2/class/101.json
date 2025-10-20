@@ -60,11 +60,19 @@
         {
           "courseCode": "MA1133",
           "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
+          "subject": "MA"
         }
       ],
       "p10": [
         {
           "courseCode": "MA1133",
+          "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
           "subject": "MA"
         }
       ],
@@ -324,11 +332,19 @@
         {
           "courseCode": "MA1133",
           "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
+          "subject": "MA"
         }
       ],
       "p5": [
         {
           "courseCode": "MA1133",
+          "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
           "subject": "MA"
         }
       ],
@@ -744,11 +760,19 @@
         {
           "courseCode": "MA1133",
           "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
+          "subject": "MA"
         }
       ],
       "p8": [
         {
           "courseCode": "MA1133",
+          "subject": "MA"
+        },
+        {
+          "courseCode": "MA2133",
           "subject": "MA"
         }
       ],
