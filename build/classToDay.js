@@ -24,7 +24,7 @@ async function main() {
         let days = {};
 
         let metaInfo = (() => {
-            let [year, sem] = folder.match(/^(\d{4})s(1|2)$/);
+            let [, year, sem] = folder.match(/^(\d{4})s(1|2)$/);
             return { year, sem };
         })();
 
