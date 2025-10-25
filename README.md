@@ -2,13 +2,7 @@
 Collection of timetable data for NUSH in JSON format.
 
 ## Structure
-(The `helpers` directory contains some utility scripts for preparing the data.)
-
-Each directory in the `v2` folder is named after the corresponding year/semester, so `2025s1` contains the files for year 2025, semester 1.
-
-Inside each such directory there may be two folders: `day` and `class`.
-
-Unfortunately there is currently no proper definition for the structure of the data, and we hope to introduce this soon as appropriate.
+`v3/raw` contains raw data for editing and contribution. This is converted by `build/index.js` to `v3/dist` data meant for consumption.
 
 ### `day` data
 These directories contain the data for each day of the week. The data files are named `1.json` through `5.json`, 1 being Monday and 5 being Friday.
@@ -16,25 +10,33 @@ These directories contain the data for each day of the week. The data files are 
 ### `class` data
 These directories contain data for each class. There is one file for each class (`101.json`, `102.json` etc).
 
-### Common files
-Both `day` and `class` directories share some common files:
-- `CREDITS.txt` has data about where the data was sourced from, as well as potential usage notes. 
-- `source.zip` (or similarly named file(s)) **may** exist, and if so, it is a compressed file of the source(s) the data was taken from.
+Both `day` and `class` data in `v3/dist` contain `.period.json` and `.subject.json` files. Generally, `.subject.json` is better for application use as it splits the day up by lessons, rather than `.period.json` which splits the day up by each period. 
 
-### `v1` vs `v2`
-**Only `v2` data will be updated from now on.** `v2` introduced a change in the structure to allow for proper separation of course options. `v1` data is only fully available for `2025s1`. Please only use `v2` data.
+### Versioning
+Currently, the `tt-data` format is on V3 and all data that existed in V2 format has been ported over. The V3 format includes both `period` and `subject` formats for easier parsing, automated data compilation and building, and more improvements. **Only V3 data is being updated.**
+
+## Compiling and building data
+Run `build/index.js` in Node. This will:
+- read all JSON files from `v3/raw`
+- convert them to `.period.json` and `.subject.json` files
+- write the converted and minifed files to `v3/dist`
+
+The GitHub action at `.github/workflows/build-data.yaml` automatically runs this on push to `v3/raw` data.
 
 ## Notes
-This repo is purposely not hosted on GitHub Pages - you are strongly encouraged to either download and include the files in your project directly or use a CDN to access the files.
-
-Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`. In the future, the standard may include course codes for cross reference with [nush-pos-data](https://github.com/gohjy/nush-pos-data) as well.
+Currently, there is a work-in-progress list for values of the `subject` field in `SUBJECT_CODES.md`.
 
 ## Extra files (in `helpers` directory)
-`json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
+> [!WARNING]
+> All `helpers` files are designed for specialised use, most of them for single-use only. They are left inside the repo in case I ever need them again, but **you should not use them unless you know what you are doing**. Proceed with caution.
+
+`helpers/json_convert.js` is a utility function for the preparation of the data (post-CSV to JSON conversion) into the format used by the data files. See the file for more info.
 
 The files in `helpers/day_to_class` convert data in `day` format to `class` format (provided a full and comprehensive `day` data set). See the files for more info.
 
 `helpers/v1_to_v2` converted `v1` data to `v2` data. See the file for more info.
+
+`helpers/v2_to_v3.js` renamed `v2` data (with slight edits) to `v3` data. See the file for more info.
 
 ## License
 So technically the data isn't mine because the timetables are the school's...
